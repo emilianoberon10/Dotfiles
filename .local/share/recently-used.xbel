@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/beron/wallpapers" added="2021-02-08T12:49:55.225323Z" modified="2021-02-08T12:49:55.225338Z" visited="2021-02-08T12:49:55.225325Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="nitrogen" exec="&apos;nitrogen %u&apos;" modified="2021-02-08T12:49:55.225328Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/beron/crypto-app" added="2021-02-15T23:07:24.342923Z" modified="2021-02-15T23:07:24.342934Z" visited="2021-02-15T23:07:24.342924Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron" exec="&apos;electron %u&apos;" modified="2021-02-15T23:07:24.342928Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/beron/crypto-app/src/img/bitcoin-btc-logo.svg" added="2021-02-15T23:24:53.151365Z" modified="2021-02-15T23:24:53.151379Z" visited="2021-02-15T23:24:53.151367Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="opera" exec="&apos;opera %u&apos;" modified="2021-02-15T23:24:53.151372Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
